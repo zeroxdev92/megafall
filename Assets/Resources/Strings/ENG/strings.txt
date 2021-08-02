@@ -1,0 +1,19 @@
+<strings>
+	<string name="powerups">POWER UPS</string>
+	<string name="characters">CHRACTERS</string>
+	<string name="items">ITEMS</string>
+	<string name="level">LEVEL</string>
+	<string name="upgrade">UPGRADE</string>
+	<string name="shop">SHOP</string>
+	<string name="comingsoon">COMING SOON...</string>
+	<string name="back">BACK</string>
+	<string name="notenoughcoins">NOT ENOUGH COINS!</string>
+	<string name="pause">PAUSE</string>
+	<string name="continue">CONTINUE</string>
+	<string name="restart">RESTART</string>
+	<string name="quit">QUIT</string>
+	<string name="confirmexit">ARE YOU SURE YOU WANT TO QUIT?</string>
+	<string name="tutorialtitle">SWIPE TO MOVE!!</string>
+	<string name="gotit">GOT IT!</string>
+	<string name="close">CLOSE</string>
+</strings>

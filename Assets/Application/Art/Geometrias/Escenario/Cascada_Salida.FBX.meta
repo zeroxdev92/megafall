@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 4523e4be7c8ece147bd34b6f0e234fba
+timeCreated: 1515007502
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cascada_Salida_Agua
+    100004: Cascada_Salida_Espuma
+    100006: Cueva_Entrada_Plantas001
+    100008: Cueva_Rocas001
+    100010: Cascada_Espuma
+    100012: Cascada_Salida_Plantas
+    100014: Cascada_Salida_Rocas
+    100016: Plano_Laye-01_Parallax004
+    100018: Plano_Laye-02_Parallax004
+    100020: Plano_Laye-03_Parallax004
+    100022: Selva_Layer_01
+    100024: Selva_Layer_02
+    100026: Selva_Layer_03
+    400000: //RootNode
+    400002: Cascada_Salida_Agua
+    400004: Cascada_Salida_Espuma
+    400006: Cueva_Entrada_Plantas001
+    400008: Cueva_Rocas001
+    400010: Cascada_Espuma
+    400012: Cascada_Salida_Plantas
+    400014: Cascada_Salida_Rocas
+    400016: Plano_Laye-01_Parallax004
+    400018: Plano_Laye-02_Parallax004
+    400020: Plano_Laye-03_Parallax004
+    400022: Selva_Layer_01
+    400024: Selva_Layer_02
+    400026: Selva_Layer_03
+    2300000: Cascada_Salida_Agua
+    2300002: Cascada_Salida_Espuma
+    2300004: Cueva_Entrada_Plantas001
+    2300006: Cueva_Rocas001
+    2300008: Cascada_Espuma
+    2300010: Cascada_Salida_Plantas
+    2300012: Cascada_Salida_Rocas
+    2300014: Plano_Laye-01_Parallax004
+    2300016: Plano_Laye-02_Parallax004
+    2300018: Plano_Laye-03_Parallax004
+    2300020: Selva_Layer_01
+    2300022: Selva_Layer_02
+    2300024: Selva_Layer_03
+    3300000: Cascada_Salida_Agua
+    3300002: Cascada_Salida_Espuma
+    3300004: Cueva_Entrada_Plantas001
+    3300006: Cueva_Rocas001
+    3300008: Cascada_Espuma
+    3300010: Cascada_Salida_Plantas
+    3300012: Cascada_Salida_Rocas
+    3300014: Plano_Laye-01_Parallax004
+    3300016: Plano_Laye-02_Parallax004
+    3300018: Plano_Laye-03_Parallax004
+    3300020: Selva_Layer_01
+    3300022: Selva_Layer_02
+    3300024: Selva_Layer_03
+    4300000: Cascada_Salida_Espuma
+    4300002: Cascada_Salida_Agua
+    4300004: Cueva_Rocas001
+    4300006: Cueva_Entrada_Plantas001
+    4300008: Cascada_Salida_Rocas
+    4300010: Cascada_Salida_Plantas
+    4300012: Cascada_Espuma
+    4300014: Plano_Laye-01_Parallax004
+    4300016: Plano_Laye-02_Parallax004
+    4300018: Plano_Laye-03_Parallax004
+    4300020: Selva_Layer_01
+    4300022: Selva_Layer_02
+    4300024: Selva_Layer_03
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

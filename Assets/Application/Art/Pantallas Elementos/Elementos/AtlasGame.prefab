@@ -1,0 +1,755 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: AtlasGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 65e8a0f8aeff8e049be4a7394c179c9c, type: 2}
+  sprites:
+  - name: General_Music_ON
+    outer:
+      serializedVersion: 2
+      x: 451
+      y: 932
+      width: 97
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 451
+      y: 932
+      width: 97
+      height: 95
+    paddingLeft: 0.10309278
+    paddingRight: 0.0927835
+    paddingTop: 0.07368421
+    paddingBottom: 0.07368421
+  - name: General_Music_OFF
+    outer:
+      serializedVersion: 2
+      x: 451
+      y: 1124
+      width: 97
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 451
+      y: 1124
+      width: 97
+      height: 95
+    paddingLeft: 0.10309278
+    paddingRight: 0.0927835
+    paddingTop: 0.07368421
+    paddingBottom: 0.07368421
+  - name: Main Menu_Title
+    outer:
+      serializedVersion: 2
+      x: 1243
+      y: 1008
+      width: 590
+      height: 215
+    inner:
+      serializedVersion: 2
+      x: 1243
+      y: 1008
+      width: 590
+      height: 215
+    paddingLeft: 0.020338982
+    paddingRight: 0.020338982
+    paddingTop: 0.037209302
+    paddingBottom: 0.03255814
+  - name: Main Menu_Botonera
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 1675
+      width: 768
+      height: 373
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 1675
+      width: 768
+      height: 373
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: General_Audio_ON
+    outer:
+      serializedVersion: 2
+      x: 482
+      y: 584
+      width: 96
+      height: 92
+    inner:
+      serializedVersion: 2
+      x: 482
+      y: 584
+      width: 96
+      height: 92
+    paddingLeft: 0.072916664
+    paddingRight: 0.052083332
+    paddingTop: 0.04347826
+    paddingBottom: 0.04347826
+  - name: General_Audio_OFF
+    outer:
+      serializedVersion: 2
+      x: 482
+      y: 491
+      width: 96
+      height: 92
+    inner:
+      serializedVersion: 2
+      x: 482
+      y: 491
+      width: 96
+      height: 92
+    paddingLeft: 0.072916664
+    paddingRight: 0.052083332
+    paddingTop: 0.04347826
+    paddingBottom: 0.04347826
+  - name: In Game_Pause_Box
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 864
+      width: 450
+      height: 581
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 864
+      width: 450
+      height: 581
+    paddingLeft: 0.031111112
+    paddingRight: 0.026666667
+    paddingTop: 0.024096385
+    paddingBottom: 0.020654045
+  - name: In Game_Marcador
+    outer:
+      serializedVersion: 2
+      x: 811
+      y: 733
+      width: 323
+      height: 127
+    inner:
+      serializedVersion: 2
+      x: 811
+      y: 733
+      width: 323
+      height: 127
+    paddingLeft: 0.021671826
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: In Game_Aire
+    outer:
+      serializedVersion: 2
+      x: 1063
+      y: 1229
+      width: 255
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 1063
+      y: 1229
+      width: 255
+      height: 21
+    paddingLeft: 0.039215688
+    paddingRight: 0.03529412
+    paddingTop: 0.33333334
+    paddingBottom: 0.3809524
+  - name: In Game_Pause_Box_Buton
+    outer:
+      serializedVersion: 2
+      x: 1648
+      y: 1693
+      width: 327
+      height: 105
+    inner:
+      serializedVersion: 2
+      x: 1648
+      y: 1693
+      width: 327
+      height: 105
+    paddingLeft: 0.027522936
+    paddingRight: 0.024464833
+    paddingTop: 0.03809524
+    paddingBottom: 0.03809524
+  - name: In Game_Barra de Aire
+    outer:
+      serializedVersion: 2
+      x: 1350
+      y: 1681
+      width: 297
+      height: 117
+    inner:
+      serializedVersion: 2
+      x: 1350
+      y: 1681
+      width: 297
+      height: 117
+    paddingLeft: 0
+    paddingRight: 0.016835017
+    paddingTop: 0
+    paddingBottom: 0.017094018
+  - name: Tienda_Boton_Character_Rest
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 302
+      width: 148
+      height: 148
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 302
+      width: 148
+      height: 148
+    paddingLeft: 0.36486486
+    paddingRight: 0.3783784
+    paddingTop: 0.3108108
+    paddingBottom: 0.31756756
+  - name: Tienda_Recursos
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 1005
+      width: 661
+      height: 218
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 1005
+      width: 661
+      height: 218
+    paddingLeft: 0.022692889
+    paddingRight: 0.024205748
+    paddingTop: 0.02293578
+    paddingBottom: 0.0091743115
+  - name: Tienda_Boton_Cash_Rest
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 4
+      width: 148
+      height: 148
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 4
+      width: 148
+      height: 148
+    paddingLeft: 0.3716216
+    paddingRight: 0.3716216
+    paddingTop: 0.3108108
+    paddingBottom: 0.31756756
+  - name: Tienda_Flecha_Derecha
+    outer:
+      serializedVersion: 2
+      x: 451
+      y: 1220
+      width: 128
+      height: 112
+    inner:
+      serializedVersion: 2
+      x: 451
+      y: 1220
+      width: 128
+      height: 112
+    paddingLeft: 0.078125
+    paddingRight: 0.078125
+    paddingTop: 0.04464286
+    paddingBottom: 0.026785715
+  - name: Boton_Back_General
+    outer:
+      serializedVersion: 2
+      x: 811
+      y: 632
+      width: 247
+      height: 100
+    inner:
+      serializedVersion: 2
+      x: 811
+      y: 632
+      width: 247
+      height: 100
+    paddingLeft: 0.016194332
+    paddingRight: 0.012145749
+    paddingTop: 0.04
+    paddingBottom: 0.01
+  - name: Tienda_Flecha_Izquierda
+    outer:
+      serializedVersion: 2
+      x: 451
+      y: 1333
+      width: 128
+      height: 112
+    inner:
+      serializedVersion: 2
+      x: 451
+      y: 1333
+      width: 128
+      height: 112
+    paddingLeft: 0.078125
+    paddingRight: 0.078125
+    paddingTop: 0.04464286
+    paddingBottom: 0.026785715
+  - name: Tienda_Boton_Cash_HighLight
+    outer:
+      serializedVersion: 2
+      x: 1794
+      y: 1446
+      width: 229
+      height: 228
+    inner:
+      serializedVersion: 2
+      x: 1794
+      y: 1446
+      width: 229
+      height: 228
+    paddingLeft: 0.06113537
+    paddingRight: 0.06550218
+    paddingTop: 0.02631579
+    paddingBottom: 0.030701755
+  - name: Tienda_Contenedor
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1446
+      width: 580
+      height: 602
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1446
+      width: 580
+      height: 602
+    paddingLeft: 0.0034482758
+    paddingRight: 0.005172414
+    paddingTop: 0.011627907
+    paddingBottom: 0.006644518
+  - name: Tienda_Boton_PowerUps_Rest
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 153
+      width: 148
+      height: 148
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 153
+      width: 148
+      height: 148
+    paddingLeft: 0.3716216
+    paddingRight: 0.3716216
+    paddingTop: 0.3108108
+    paddingBottom: 0.31756756
+  - name: Tienda_Boton_PowerUps_HighLight
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 632
+      width: 229
+      height: 228
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 632
+      width: 229
+      height: 228
+    paddingLeft: 0.06113537
+    paddingRight: 0.06550218
+    paddingTop: 0.02631579
+    paddingBottom: 0.030701755
+  - name: Tienda_Boton_Character_HighLight
+    outer:
+      serializedVersion: 2
+      x: 1564
+      y: 1446
+      width: 229
+      height: 228
+    inner:
+      serializedVersion: 2
+      x: 1564
+      y: 1446
+      width: 229
+      height: 228
+    paddingLeft: 0.05676856
+    paddingRight: 0.069869
+    paddingTop: 0.02631579
+    paddingBottom: 0.030701755
+  - name: Tienda Items
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 408
+      width: 481
+      height: 455
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 408
+      width: 481
+      height: 455
+    paddingLeft: 0.024948025
+    paddingRight: 0.024948025
+    paddingTop: 0.024175825
+    paddingBottom: 0.021978023
+  - name: Tienda_Encabezado
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 861
+      width: 574
+      height: 143
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 861
+      width: 574
+      height: 143
+    paddingLeft: 0.015679443
+    paddingRight: 0.015679443
+    paddingTop: 0.04895105
+    paddingBottom: 0.027972028
+  - name: X
+    outer:
+      serializedVersion: 2
+      x: 482
+      y: 677
+      width: 96
+      height: 92
+    inner:
+      serializedVersion: 2
+      x: 482
+      y: 677
+      width: 96
+      height: 92
+    paddingLeft: 0.125
+    paddingRight: 0.125
+    paddingTop: 0.16304348
+    paddingBottom: 0.14130434
+  - name: PowerUp_Magnet
+    outer:
+      serializedVersion: 2
+      x: 1834
+      y: 1043
+      width: 180
+      height: 180
+    inner:
+      serializedVersion: 2
+      x: 1834
+      y: 1043
+      width: 180
+      height: 180
+    paddingLeft: 0.055555556
+    paddingRight: 0.055555556
+    paddingTop: 0.055555556
+    paddingBottom: 0.055555556
+  - name: PowerUp_Revive
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 451
+      width: 180
+      height: 180
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 451
+      width: 180
+      height: 180
+    paddingLeft: 0.055555556
+    paddingRight: 0.055555556
+    paddingTop: 0.055555556
+    paddingBottom: 0.055555556
+  - name: PowerUp_Shield
+    outer:
+      serializedVersion: 2
+      x: 395
+      y: 46
+      width: 181
+      height: 180
+    inner:
+      serializedVersion: 2
+      x: 395
+      y: 46
+      width: 181
+      height: 180
+    paddingLeft: 0.055248618
+    paddingRight: 0.049723756
+    paddingTop: 0.055555556
+    paddingBottom: 0.055555556
+  - name: Tienda Cash
+    outer:
+      serializedVersion: 2
+      x: 581
+      y: 1224
+      width: 481
+      height: 450
+    inner:
+      serializedVersion: 2
+      x: 581
+      y: 1224
+      width: 481
+      height: 450
+    paddingLeft: 0.024948025
+    paddingRight: 0.024948025
+    paddingTop: 0.028888889
+    paddingBottom: 0.028888889
+  - name: Tienda_Cost_Sign
+    outer:
+      serializedVersion: 2
+      x: 1564
+      y: 1234
+      width: 211
+      height: 211
+    inner:
+      serializedVersion: 2
+      x: 1564
+      y: 1234
+      width: 211
+      height: 211
+    paddingLeft: 0.028436018
+    paddingRight: 0.028436018
+    paddingTop: 0.028436018
+    paddingBottom: 0.014218009
+  - name: Tienda_Boton_BUY
+    outer:
+      serializedVersion: 2
+      x: 942
+      y: 494
+      width: 185
+      height: 60
+    inner:
+      serializedVersion: 2
+      x: 942
+      y: 494
+      width: 185
+      height: 60
+    paddingLeft: 0.032432433
+    paddingRight: 0.037837837
+    paddingTop: 0.06666667
+    paddingBottom: 0.06666667
+  - name: PowerUp_Impulse
+    outer:
+      serializedVersion: 2
+      x: 395
+      y: 227
+      width: 181
+      height: 180
+    inner:
+      serializedVersion: 2
+      x: 395
+      y: 227
+      width: 181
+      height: 180
+    paddingLeft: 0.055248618
+    paddingRight: 0.049723756
+    paddingTop: 0.055555556
+    paddingBottom: 0.055555556
+  - name: Cuadro_FB
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 25
+      width: 394
+      height: 382
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 25
+      width: 394
+      height: 382
+    paddingLeft: 0.005076142
+    paddingRight: 0.007614213
+    paddingTop: 0.007853403
+    paddingBottom: 0.007853403
+  - name: Score_Cuadro
+    outer:
+      serializedVersion: 2
+      x: 1350
+      y: 1799
+      width: 652
+      height: 249
+    inner:
+      serializedVersion: 2
+      x: 1350
+      y: 1799
+      width: 652
+      height: 249
+    paddingLeft: 0.016871165
+    paddingRight: 0.016871165
+    paddingTop: 0.024096385
+    paddingBottom: 0.02008032
+  - name: Tilde
+    outer:
+      serializedVersion: 2
+      x: 451
+      y: 1028
+      width: 97
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 451
+      y: 1028
+      width: 97
+      height: 95
+    paddingLeft: 0.12371134
+    paddingRight: 0.11340206
+    paddingTop: 0.14736842
+    paddingBottom: 0.11578947
+  - name: Cuadro Info
+    outer:
+      serializedVersion: 2
+      x: 1063
+      y: 1251
+      width: 500
+      height: 423
+    inner:
+      serializedVersion: 2
+      x: 1063
+      y: 1251
+      width: 500
+      height: 423
+    paddingLeft: 0.052
+    paddingRight: 0.056
+    paddingTop: 0.06855792
+    paddingBottom: 0.06382979
+  - name: In Game_Pause_Buton
+    outer:
+      serializedVersion: 2
+      x: 482
+      y: 770
+      width: 95
+      height: 93
+    inner:
+      serializedVersion: 2
+      x: 482
+      y: 770
+      width: 95
+      height: 93
+    paddingLeft: 0.094736844
+    paddingRight: 0.08421053
+    paddingTop: 0.05376344
+    paddingBottom: 0.032258064
+  - name: login
+    outer:
+      serializedVersion: 2
+      x: 762
+      y: 555
+      width: 360
+      height: 76
+    inner:
+      serializedVersion: 2
+      x: 762
+      y: 555
+      width: 360
+      height: 76
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fb_blank_profile_square
+    outer:
+      serializedVersion: 2
+      x: 1794
+      y: 1245
+      width: 200
+      height: 200
+    inner:
+      serializedVersion: 2
+      x: 1794
+      y: 1245
+      width: 200
+      height: 200
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: logout
+    outer:
+      serializedVersion: 2
+      x: 762
+      y: 478
+      width: 179
+      height: 76
+    inner:
+      serializedVersion: 2
+      x: 762
+      y: 478
+      width: 179
+      height: 76
+    paddingLeft: 0
+    paddingRight: 0.005586592
+    paddingTop: 0
+    paddingBottom: 0
+  - name: In Game_Aire_WARNING
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 3
+      width: 255
+      height: 21
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 3
+      width: 255
+      height: 21
+    paddingLeft: 0.039215688
+    paddingRight: 0.03529412
+    paddingTop: 0.33333334
+    paddingBottom: 0.3809524
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1

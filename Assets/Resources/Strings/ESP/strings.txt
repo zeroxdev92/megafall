@@ -1,0 +1,19 @@
+<strings>
+	<string name="powerups">MEJORAS</string>
+	<string name="characters">PERSONAJES</string>
+	<string name="items">ACCESORIOS</string>
+	<string name="level">NIVEL</string>
+	<string name="upgrade">MEJORAR</string>
+	<string name="shop">TIENDA</string>
+	<string name="comingsoon">PROXIMAMENTE...</string>
+	<string name="back">VOLVER</string>
+	<string name="notenoughcoins">NO TIENES SUFICIENTES MONEDAS!</string>
+	<string name="pause">PAUSA</string>
+	<string name="continue">CONTINUAR</string>
+	<string name="restart">REINICIAR</string>
+	<string name="quit">SALIR</string>
+	<string name="confirmexit">ESTAS SEGURO QUE DESEAS SALIR?</string>
+	<string name="tutorialtitle">DESLIZA PARA MOVER!!</string>
+	<string name="gotit">LO TENGO!</string>
+	<string name="close">CERRAR</string>
+</strings> 

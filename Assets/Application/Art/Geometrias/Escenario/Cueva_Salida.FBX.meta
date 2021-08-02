@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: ce17155ad19259c49ab54b935d920e9c
+timeCreated: 1514923520
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cueva_Salida_Escenario
+    100004: Cueva_Salida_Fondo
+    100006: Cueva_Salida_Musgo
+    100008: Cueva_Salida_Rocas
+    100010: Cueva_Salida_Parallax
+    100012: Plano_Laye-02_Parallax002
+    100014: Plano_Laye-03_Parallax002
+    100016: Cueva_Salida_Laboratorio
+    100018: Cueva_Salida_Musgo001
+    100020: Cueva_Salida_Musgo002
+    100022: Object001
+    100024: Plane013
+    100026: Cueva_Salida_Porton_A
+    100028: Cueva_Salida_Porton_B
+    100030: Selva_Layer_01
+    100032: Selva_Layer_02
+    100034: Selva_Layer_03
+    400000: //RootNode
+    400002: Cueva_Salida_Escenario
+    400004: Cueva_Salida_Fondo
+    400006: Cueva_Salida_Musgo
+    400008: Cueva_Salida_Rocas
+    400010: Cueva_Salida_Parallax
+    400012: Plano_Laye-02_Parallax002
+    400014: Plano_Laye-03_Parallax002
+    400016: Cueva_Salida_Laboratorio
+    400018: Cueva_Salida_Musgo001
+    400020: Cueva_Salida_Musgo002
+    400022: Object001
+    400024: Plane013
+    400026: Cueva_Salida_Porton_A
+    400028: Cueva_Salida_Porton_B
+    400030: Selva_Layer_01
+    400032: Selva_Layer_02
+    400034: Selva_Layer_03
+    2300000: Cueva_Salida_Escenario
+    2300002: Cueva_Salida_Fondo
+    2300004: Cueva_Salida_Musgo
+    2300006: Cueva_Salida_Rocas
+    2300008: Cueva_Salida_Parallax
+    2300010: Plano_Laye-02_Parallax002
+    2300012: Plano_Laye-03_Parallax002
+    2300014: Cueva_Salida_Laboratorio
+    2300016: Cueva_Salida_Musgo001
+    2300018: Cueva_Salida_Musgo002
+    2300020: Object001
+    2300022: Plane013
+    2300024: Cueva_Salida_Porton_A
+    2300026: Cueva_Salida_Porton_B
+    2300028: Selva_Layer_01
+    2300030: Selva_Layer_02
+    2300032: Selva_Layer_03
+    3300000: Cueva_Salida_Escenario
+    3300002: Cueva_Salida_Fondo
+    3300004: Cueva_Salida_Musgo
+    3300006: Cueva_Salida_Rocas
+    3300008: Cueva_Salida_Parallax
+    3300010: Plano_Laye-02_Parallax002
+    3300012: Plano_Laye-03_Parallax002
+    3300014: Cueva_Salida_Laboratorio
+    3300016: Cueva_Salida_Musgo001
+    3300018: Cueva_Salida_Musgo002
+    3300020: Object001
+    3300022: Plane013
+    3300024: Cueva_Salida_Porton_A
+    3300026: Cueva_Salida_Porton_B
+    3300028: Selva_Layer_01
+    3300030: Selva_Layer_02
+    3300032: Selva_Layer_03
+    4300000: Cueva_Salida_Fondo
+    4300002: Cueva_Salida_Rocas
+    4300004: Cueva_Salida_Musgo
+    4300006: Cueva_Salida_Escenario
+    4300008: Cueva_Salida_Parallax
+    4300010: Plano_Laye-02_Parallax002
+    4300012: Plano_Laye-03_Parallax002
+    4300014: Cueva_Salida_Musgo001
+    4300016: Cueva_Salida_Musgo002
+    4300018: Cueva_Salida_Laboratorio
+    4300020: Object001
+    4300022: Plane013
+    4300024: Cueva_Salida_Porton_A
+    4300026: Cueva_Salida_Porton_B
+    4300028: Selva_Layer_02
+    4300030: Selva_Layer_03
+    4300032: Selva_Layer_01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

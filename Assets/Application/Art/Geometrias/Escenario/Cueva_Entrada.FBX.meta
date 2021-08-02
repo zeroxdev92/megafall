@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 2f2772d88383aad489db98fc85895165
+timeCreated: 1514494951
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cueva_Entrada_Escenario
+    100004: Cueva_Entrada_Fondo
+    100006: Cueva_Entrada_Pasto
+    100008: Cueva_Entrada_Plantas
+    100010: Cueva_Entrada_Rocas
+    100012: Cueva_Entrada_Parallax
+    100014: Cueva_Entrada_Rocas_Claras
+    100016: Plano_Laye-02_Parallax001
+    100018: Plano_Laye-03_Parallax001
+    100020: Planta_01
+    100022: Planta_02
+    100024: Planta_03
+    100026: Planta_04
+    100028: Planta_05
+    100030: Planta_06
+    100032: Cueva_Entrada_Laboratorio
+    100034: Cueva_Entrada_Parallax_2
+    100036: Cueva_Entrada_Parallax_3
+    100038: Cueva_Entrada_Porton_A
+    100040: Cueva_Entrada_Porton_B
+    100042: Object004
+    100044: Selva_Layer_01
+    100046: Selva_Layer_02
+    100048: Selva_Layer_03
+    400000: //RootNode
+    400002: Cueva_Entrada_Escenario
+    400004: Cueva_Entrada_Fondo
+    400006: Cueva_Entrada_Pasto
+    400008: Cueva_Entrada_Plantas
+    400010: Cueva_Entrada_Rocas
+    400012: Cueva_Entrada_Parallax
+    400014: Cueva_Entrada_Rocas_Claras
+    400016: Plano_Laye-02_Parallax001
+    400018: Plano_Laye-03_Parallax001
+    400020: Planta_01
+    400022: Planta_02
+    400024: Planta_03
+    400026: Planta_04
+    400028: Planta_05
+    400030: Planta_06
+    400032: Cueva_Entrada_Laboratorio
+    400034: Cueva_Entrada_Parallax_2
+    400036: Cueva_Entrada_Parallax_3
+    400038: Cueva_Entrada_Porton_A
+    400040: Cueva_Entrada_Porton_B
+    400042: Object004
+    400044: Selva_Layer_01
+    400046: Selva_Layer_02
+    400048: Selva_Layer_03
+    2300000: Cueva_Entrada_Escenario
+    2300002: Cueva_Entrada_Fondo
+    2300004: Cueva_Entrada_Pasto
+    2300006: Cueva_Entrada_Plantas
+    2300008: Cueva_Entrada_Rocas
+    2300010: Cueva_Entrada_Parallax
+    2300012: Cueva_Entrada_Rocas_Claras
+    2300014: Plano_Laye-02_Parallax001
+    2300016: Plano_Laye-03_Parallax001
+    2300018: Planta_01
+    2300020: Planta_02
+    2300022: Planta_03
+    2300024: Planta_04
+    2300026: Planta_05
+    2300028: Planta_06
+    2300030: Cueva_Entrada_Laboratorio
+    2300032: Cueva_Entrada_Parallax_2
+    2300034: Cueva_Entrada_Parallax_3
+    2300036: Cueva_Entrada_Porton_A
+    2300038: Cueva_Entrada_Porton_B
+    2300040: Object004
+    2300042: Selva_Layer_01
+    2300044: Selva_Layer_02
+    2300046: Selva_Layer_03
+    3300000: Cueva_Entrada_Escenario
+    3300002: Cueva_Entrada_Fondo
+    3300004: Cueva_Entrada_Pasto
+    3300006: Cueva_Entrada_Plantas
+    3300008: Cueva_Entrada_Rocas
+    3300010: Cueva_Entrada_Parallax
+    3300012: Cueva_Entrada_Rocas_Claras
+    3300014: Plano_Laye-02_Parallax001
+    3300016: Plano_Laye-03_Parallax001
+    3300018: Planta_01
+    3300020: Planta_02
+    3300022: Planta_03
+    3300024: Planta_04
+    3300026: Planta_05
+    3300028: Planta_06
+    3300030: Cueva_Entrada_Laboratorio
+    3300032: Cueva_Entrada_Parallax_2
+    3300034: Cueva_Entrada_Parallax_3
+    3300036: Cueva_Entrada_Porton_A
+    3300038: Cueva_Entrada_Porton_B
+    3300040: Object004
+    3300042: Selva_Layer_01
+    3300044: Selva_Layer_02
+    3300046: Selva_Layer_03
+    4300000: Cueva_Entrada_Plantas
+    4300002: Cueva_Entrada_Fondo
+    4300004: Cueva_Entrada_Rocas
+    4300006: Cueva_Entrada_Pasto
+    4300008: Cueva_Entrada_Escenario
+    4300010: Cueva_Entrada_Parallax
+    4300012: Planta_01
+    4300014: Planta_02
+    4300016: Planta_03
+    4300018: Planta_04
+    4300020: Planta_05
+    4300022: Plano_Laye-02_Parallax001
+    4300024: Plano_Laye-03_Parallax001
+    4300026: Cueva_Entrada_Rocas_Claras
+    4300028: Planta_06
+    4300030: Cueva_Entrada_Parallax_2
+    4300032: Cueva_Entrada_Parallax_3
+    4300034: Cueva_Entrada_Laboratorio
+    4300036: Cueva_Entrada_Porton_A
+    4300038: Cueva_Entrada_Porton_B
+    4300040: Object004
+    4300042: Selva_Layer_01
+    4300044: Selva_Layer_02
+    4300046: Selva_Layer_03
+    7400000: OpenDoor
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: OpenDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

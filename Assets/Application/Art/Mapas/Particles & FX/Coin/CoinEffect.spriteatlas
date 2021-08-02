@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CoinEffect
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1904a53df982751409e5bbfd9c77130d, type: 3}
+    - {fileID: 2800000, guid: b5eefb4bbee9dda4cad78dd9477b240b, type: 3}
+    - {fileID: 2800000, guid: 67d56b9b4ff39cc488ab66edce0d088a, type: 3}
+    - {fileID: 2800000, guid: 77abc32898142dc4db099618316cffe9, type: 3}
+    - {fileID: 2800000, guid: fe352629b4d1d7d4b88fabb7262df6ca, type: 3}
+    - {fileID: 2800000, guid: 9c7d1cbb0f56f0b46adcf70809420d09, type: 3}
+    - {fileID: 2800000, guid: 30a0e79cfcafaba4583224231ef54b16, type: 3}
+    - {fileID: 2800000, guid: 9ea98f32840b47740a5b2f1b297e971c, type: 3}
+    - {fileID: 2800000, guid: fdae44c9676291440b09abb92c71c97d, type: 3}
+    - {fileID: 2800000, guid: ced01b45b3f61ee4ea5ceeed71434770, type: 3}
+    - {fileID: 2800000, guid: 9f40e9b36a770754eab0341488840a25, type: 3}
+    - {fileID: 2800000, guid: 8b5369fa66df8ef40ac22c7c686d98d3, type: 3}
+    - {fileID: 2800000, guid: 618310ad12824ab49ac2c8b50db0470f, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9ea98f32840b47740a5b2f1b297e971c, type: 3}
+  - {fileID: 21300000, guid: 9f40e9b36a770754eab0341488840a25, type: 3}
+  - {fileID: 21300000, guid: ced01b45b3f61ee4ea5ceeed71434770, type: 3}
+  - {fileID: 21300000, guid: 77abc32898142dc4db099618316cffe9, type: 3}
+  - {fileID: 21300000, guid: fe352629b4d1d7d4b88fabb7262df6ca, type: 3}
+  - {fileID: 21300000, guid: fdae44c9676291440b09abb92c71c97d, type: 3}
+  - {fileID: 21300000, guid: 8b5369fa66df8ef40ac22c7c686d98d3, type: 3}
+  - {fileID: 21300000, guid: b5eefb4bbee9dda4cad78dd9477b240b, type: 3}
+  - {fileID: 21300000, guid: 67d56b9b4ff39cc488ab66edce0d088a, type: 3}
+  - {fileID: 21300000, guid: 9c7d1cbb0f56f0b46adcf70809420d09, type: 3}
+  - {fileID: 21300000, guid: 30a0e79cfcafaba4583224231ef54b16, type: 3}
+  - {fileID: 21300000, guid: 1904a53df982751409e5bbfd9c77130d, type: 3}
+  - {fileID: 21300000, guid: 618310ad12824ab49ac2c8b50db0470f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CoinEffect08
+  - CoinEffect11
+  - CoinEffect10
+  - CoinEffect04
+  - CoinEffect05
+  - CoinEffect09
+  - CoinEffect12
+  - CoinEffect02
+  - CoinEffect03
+  - CoinEffect06
+  - CoinEffect07
+  - CoinEffect01
+  - CoinEffect13
+  m_Tag: CoinEffect
+  m_IsVariant: 0
